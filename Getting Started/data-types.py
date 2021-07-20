@@ -59,6 +59,12 @@
 # List.pop(1)
 # print(List)
 
+# note: you can multiple a list by a number to multiply the items
+# print(3 * ["a"])
+#  ["a", "a", "a"]
+# print(3 * ["a", "b"])
+# ["a", "b", "a", "b", "a", "b"]
+
 # # Tuples
 # t = ("hello", 2, "go")
 # print(t.count(3))
@@ -74,3 +80,9 @@
 # print(d["New_key"])
 #
 # print(d["Cities"][1])
+
+
+# ranges
+
+# ranges(0,8) # generates a seguence from 0 to 7
+# list(ranges(0, 8)) # then we can convert into to a list [0,1,2,4,5,6,7]
