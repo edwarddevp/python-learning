@@ -1,0 +1,7 @@
+// Program Architecture
+
+Mac and Linux
+/etc/hosts
+
+host file in windows
+C:\Windows\System32\drivers\etc\hosts
