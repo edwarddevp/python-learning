@@ -12,7 +12,6 @@ User can:
 -Close
 """
 from tkinter import *
-from tkinter import ttk
 import backend
 
 win = Tk()
