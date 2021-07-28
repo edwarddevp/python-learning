@@ -1,6 +1,6 @@
 import cv2
 
-img = cv2.imread('./smallgray.png')
+img = cv2.imread('./smallgray.png', 0)
 print(img)
 
 
